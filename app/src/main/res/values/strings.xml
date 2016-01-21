@@ -5,4 +5,6 @@
     <string name="is_prime"> Prime number.</string>
     <string name="not_prime"> Not a prime number.</string>
     <string name="action_settings">Settings</string>
+    <string name="kitten_caption">KITTEN</string>
+    <string name="kitten_caption2">CS lab has me like</string>
 </resources>
